@@ -1,6 +1,6 @@
 # products-python
 git example
 
-# first commit :)
+this - first commit :)
 
-second commit from Petr
+
