@@ -1,3 +1,2 @@
-Text string
-
-I did it!
+изменено для  main
+ in pycharms
