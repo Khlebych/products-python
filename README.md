@@ -1,3 +1,2 @@
 # products-python
-
-fixing in Pycharms
+fix in PYCHARMS no.2
